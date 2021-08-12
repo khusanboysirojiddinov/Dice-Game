@@ -69,6 +69,7 @@ button{
     transition-duration: 0.4s;
 }
 button:hover{
+    color: #fff;
     background-color: rgb(39, 83, 62);
 }
 
