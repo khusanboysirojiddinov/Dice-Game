@@ -21,6 +21,7 @@ body{
     justify-content: space-between;
     margin: auto;
     width: 50%;
+    padding-top: 50px;
 }
 
 p{
@@ -62,6 +63,7 @@ a img:hover{
 }
 
 button{
+
     font-size: 18px;
     font-weight: 500;
     color: rgb(235, 46, 46);
@@ -73,6 +75,7 @@ button{
     transition-duration: 0.4s;
 }
 button:hover{
+
     color:#fff;
     background-color: rgb(39, 83, 62);
 }
