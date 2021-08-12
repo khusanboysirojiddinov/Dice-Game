@@ -19,6 +19,7 @@ body{
     justify-content: space-between;
     margin: auto;
     width: 50%;
+    padding-top: 50px;
 }
 
 p{
