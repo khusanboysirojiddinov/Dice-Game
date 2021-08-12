@@ -60,6 +60,8 @@ a img:hover{
 }
 
 button{
+    font-size: 18px;
+    font-weight: 600;
     color: rgb(235, 46, 46);
     background-color: rgb(7, 241, 132);
     border: 2px solid rgb(9, 139, 79);
@@ -69,6 +71,7 @@ button{
     transition-duration: 0.4s;
 }
 button:hover{
+    color:#fff;
     background-color: rgb(39, 83, 62);
 }
 
