@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+
 
 *{
     box-sizing: border-box;
@@ -19,7 +21,7 @@ body{
     justify-content: space-between;
     margin: auto;
     width: 50%;
-    padding-top: 55px;
+    padding-top: 50px;
 }
 
 p{
@@ -61,7 +63,10 @@ a img:hover{
 }
 
 button{
-    color: rgb(236, 38, 38);
+
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(235, 46, 46);
     background-color: rgb(7, 241, 132);
     border: 2px solid rgb(9, 139, 79);
     border-radius: 8px;
@@ -70,7 +75,8 @@ button{
     transition-duration: 0.4s;
 }
 button:hover{
-    color: #fff;
+
+    color:#fff;
     background-color: rgb(39, 83, 62);
 }
 
