@@ -60,7 +60,7 @@ a img:hover{
 }
 
 button{
-    color: white;
+    color: rgb(236, 38, 38);
     background-color: rgb(7, 241, 132);
     border: 2px solid rgb(9, 139, 79);
     border-radius: 8px;
