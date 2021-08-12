@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css2?family=Lobster&display=swap);
+
 
 *{
     box-sizing: border-box;
@@ -61,7 +63,7 @@ a img:hover{
 
 button{
     font-size: 18px;
-    font-weight: 600;
+    font-weight: 500;
     color: rgb(235, 46, 46);
     background-color: rgb(7, 241, 132);
     border: 2px solid rgb(9, 139, 79);
